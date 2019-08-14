@@ -17,7 +17,7 @@ class Post
     if author == nil 
       return nil 
     else 
-      retun author.name 
+      return author.name 
     end 
   end 
   
