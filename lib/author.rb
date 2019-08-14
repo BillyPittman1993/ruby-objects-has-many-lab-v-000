@@ -26,8 +26,6 @@ class Author
     @@post_count += 1 
   end 
     
-  end 
-    
     
     
 end 
